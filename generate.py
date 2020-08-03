@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Script by Mitch Bradford
-# Dependencies - Netmiko, Python 3
+# Dependencies - Python 3
 # Instructions - run generate.py
 
 # -----------------------------------------------------------------------
